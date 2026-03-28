@@ -1,4 +1,4 @@
-# CSE4170 and CSEG483 from Sogang University
+# CSE4170 and CSEG483 at Sogang University
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
 [![Static Badge](https://img.shields.io/badge/github-freeglut-blue?logo=github)](https://github.com/freeglut/freeglut)
 ![Static Badge](https://img.shields.io/badge/CUDA%20Toolkit-13.1-brightgreen?logo=nvidia)  
