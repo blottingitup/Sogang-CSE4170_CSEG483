@@ -8,6 +8,7 @@
   
 This repository contains the code submitted for  
 **Introduction to Computer Graphics (CSE4170)** and **Introduction to GPU Programming (CSEG483)**.  
+The main objective is to enhance the given base code.
 Direct copy is not recommended, but taking reference to *whisk up* some code of your own will be just fine.  
 
 ---
